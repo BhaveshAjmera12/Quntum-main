@@ -2,9 +2,6 @@
 
 # Installation Guide
 
-## Step 0: Copy Project Folder
-Copy the project folder from the CD and paste it onto the desktop.
-
 ## Step 1: Install Node.js
 - Download and install Node.js from [Node.js official website](https://nodejs.org/)
 - Verify installation:
