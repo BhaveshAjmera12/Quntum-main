@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.stroke-text {
+    -webkit-text-stroke: 4px white; /* For Chrome and Safari */
+    text-stroke: 2px white; /* For other browsers supporting text stroke */
+    //color: transparent; /* Make text color transparent to show stroke */
+  }
